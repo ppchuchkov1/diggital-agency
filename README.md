@@ -1,4 +1,3 @@
-php-blog-digital-agency
 Getting Started 🚀
 
 First rename unziped folder to diggital-agency
