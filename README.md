@@ -1,6 +1,6 @@
 Getting Started 🚀
 
-First rename unziped folder to diggital-agency.
+First rename unziped folder to diggital-agency
 
 Create new MySQL Database , named it digital-agency and import SQL file from main directory - digital-agency.sql
 
